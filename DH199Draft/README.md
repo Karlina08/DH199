@@ -4,7 +4,7 @@
 ### *Purpose* 
 * Learn how to export data directly from social media platforms such as Instagram from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform, which can be used for analyzing and making informed decisions to optimize future social media campaigns and content. 
 ### *Who is This For?* 
-* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on Instagram and creating a story through [data visualzations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
+* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on Instagram and creating a story through basic [data visualzations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
 ## 💻 *Importance of Social Media Analytics* 
 * For businesses, marketers, influencers, and more, interpreting [social media analytics](https://www.ibm.com/topics/social-media-analytics) remain crucial in understanding the behaviors and wants of their target audiences including: 
   * Uncovering of social media trends and products/services that consumers respond postively to  
@@ -35,9 +35,9 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
   *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
   
 * **Step 7:** Once you see "Results for Empty Empty," Click on "Automatically Update." Here, your social media analytics will load onto Tableau. 
-  *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
+  * <img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
  
- ### *Defining KPI's*
+ ### *Defining KPI's and Creating Basic Data Visualizations*
 * Once you data is successfully uploaded into Tableau, you can then create data visuazations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
 
 ### *Creating Data Visualizations in Tableau*
@@ -49,6 +49,32 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 
 * **Step 3:** Drag Desired Variables Under "Table" into Respective Rows and Columns. This will create a data visualization. 
   * <img width="1275" alt="Screen Shot 2022-05-03 at 9 11 41 AM" src="https://user-images.githubusercontent.com/79784875/166492539-267ad8c4-6b88-42c5-9e42-cce0deb8f57c.png">
+
+ ### *Analyzing Basic Data Visualizations*
+* Once you create your desired data visualizations, you can begin analyzing the data by posing questions around your KPI's you chose to analyze. For this tutorial our chosen KPI was the number of likes. 
+
+<img width="1275" alt="Screen Shot 2022-05-03 at 9 11 41 AM" src="https://user-images.githubusercontent.com/79784875/166492539-267ad8c4-6b88-42c5-9e42-cce0deb8f57c.png">
+
+* Through this data visuzation, we are able to see that the greatest number of likes acquired was through a post at 4:22pm. Similarly, the 2nd highest post that recieved the highest number of likes was posted around the same time (4:58pm). As a result, this data visuzation uncovers a potential posting time for our account. 
+* Now, we are able to dig further into the content and consider other variables such as: 
+  * What medium were these posts? Were the videos, static images, carousels, Reels, etc.?
+  * Were any of these posts associated with a specific campaign? 
+  * What tags or hashtags were used to garner greater visability? 
+  * What are commenters saying about the post. What are their reactions? 
+
+* These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies. 
+
+
+## 💻  *Notes*
+* Pick one specific focus on the tutorial (can only have so much information) ; question of how far do I explain this? Could be a whole other tutorial in itself 
+* Address the needs of your audience without compromising your own experiences 
+* Datasets are often limited, therefore can only do so much analysis with one specific tutorial 
+* Choose a much larger dataset 
+* It's ok to pivot! (Probably going to change for Instagram analytics to Facebook analytics) 
+
+
+
+
 
 
 
