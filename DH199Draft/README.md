@@ -37,7 +37,21 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 * **Step 7:** Once you see "Results for Empty Empty," Click on "Automatically Update." Here, your social media analytics will load onto Tableau. 
   *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
  
- ### *Defning KPI's*
+ ### *Defining KPI's*
+* Once you data is successfully uploaded into Tableau, you can then create data visuazations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
+
+### *Creating Data Visualizations in Tableau*
+* **Step 1:** Ensure your Data is Extracted
+  *<img width="1089" alt="Screen Shot 2022-05-02 at 10 55 57 PM" src="https://user-images.githubusercontent.com/79784875/166410057-c61417c8-3fc1-4709-acf1-9bbbcaa91b28.png">
+
+* **Step 2:** Click on "Sheet 1" to Access Data Visualization Dashboard 
+  * <img width="1118" alt="Screen Shot 2022-05-02 at 10 59 02 PM" src="https://user-images.githubusercontent.com/79784875/166410282-5b3b1537-ca8b-45df-9c5e-0dbf0dccf232.png">
+
+* **Step 3:** Drag Desired Variables Under "Table" into Respective Rows and Columns. This will create a data visualization. 
+  * <img width="1275" alt="Screen Shot 2022-05-03 at 9 11 41 AM" src="https://user-images.githubusercontent.com/79784875/166492539-267ad8c4-6b88-42c5-9e42-cce0deb8f57c.png">
+
+
+
 
 
 
