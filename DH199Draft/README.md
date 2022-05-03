@@ -28,14 +28,16 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
   * <img width="796" alt="Screen Shot 2022-05-01 at 4 44 14 PM" src="https://user-images.githubusercontent.com/79784875/166169446-0fe0e9b4-759c-4736-b459-fa576a272658.png">
 
 * **Step 5:** Select "Get the Data from Your Account"
-  * <img width="685" alt="Screen Shot 2022-05-01 at 4 48 09 PM" src="https://user-images.githubusercontent.com/79784875/166169606-374c5b19-c6c7-45e4-9b9d-85116de45b62.png">
-  * <img width="688" alt="Screen Shot 2022-05-01 at 4 49 03 PM" src="https://user-images.githubusercontent.com/79784875/166169638-68944ade-d7e9-491f-ba70-e10853550e11.png">
+  * <img width="1277" alt="Screen Shot 2022-05-02 at 5 04 14 PM" src="https://user-images.githubusercontent.com/79784875/166344822-f09f86c4-d987-487d-b61f-9d731cb234ba.png">
+  * <img width="1280" alt="Screen Shot 2022-05-02 at 5 04 32 PM" src="https://user-images.githubusercontent.com/79784875/166344843-7ec868c3-3dca-452c-b7d7-9d09a2dff6e4.png">
 
 * **Step 6:** Once you see "Results for Empty Empty," Click on "Automatically Update." Here, your social media analytics will load onto Tableau. 
   *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
   
 * **Step 7:** Once you see "Results for Empty Empty," Click on "Automatically Update." Here, your social media analytics will load onto Tableau. 
   *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
+ 
+ ### *Defning KPI's*
 
 
 
