@@ -1,11 +1,32 @@
 > # Social Media Analytics w/ Tableau 
-> ### _Karlina Ho || DGT HUM 199 || Week 6 Draft_
+> ### _Karlina Ho || DGT HUM 199 
+
+
+## Table of Contents
+1. [Introduction](#introduction)
+    + [Purpose](#purpose)
+    + [Who is this For?](#who-is-this-for)
+    + [Importance of Social Media Analytics](#importance-of-social-media-analytics)
+2. [Tutorial](#tutorial)
+    + [Installing Tableau Desktop](#installing-tableau-desktop)
+        + [Different Types of Inputs](inputs.md) 
+        + [Different Types of Outputs](outputs.md)
+        + 
+    + [Coding the Back-End](#coding-the-back-end)
+      + [Displaying Reactive Output](#displaying-reactive-output)
+4. [Additional Components](#additional-components)
+  + [Changing the Layout](#changing-layout)
+  + [Additional Web App Content](#additional-content)
+5. [Advanced Features](#advanced-features)
+
+
+
 ## 💻  *Introduction*
 ### *Purpose* 
-* Learn how to export data directly from social media platforms such as Instagram from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
+* Learn how to export data directly from social media platforms such as Facebook from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
 * Data visuzalizations can be used for analyzing and making informed decisions to optimize future social media campaigns and content. 
 ### *Who is This For?* 
-* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on Instagram and creating a story through basic [data visualzations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
+* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on Facebook and creating a story through basic [data visualzations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
 ## 💻 *Importance of Social Media Analytics* 
 * For businesses, marketers, influencers, and more, interpreting [social media analytics](https://www.ibm.com/topics/social-media-analytics) remain crucial in understanding the behaviors and wants of their target audiences including: 
   * Uncovering of social media trends and products/services that consumers respond postively to  
@@ -63,9 +84,13 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 * **Step 6:** Once you see "Results for Empty Empty," Click on "Automatically Update." Here, your social media analytics will load onto Tableau. 
   *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
 
+## 💻  *Data Visualizations*
  
  ### *Creating Basic Data Visualizations*
 * Once you data is successfully uploaded into Tableau, you can then create data visuazations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
+
+### *What are KPI's?*
+* Key performance indicators, or KPI's are defined measurable metrics that companies and individuals track on their social media platforms to analyze both their performance on social media platforms as well as their return on investments regarding social media expenditures.  
 
 ### *Creating Data Visualizations in Tableau*
 * **Step 1:** Ensure your Data is Extracted
