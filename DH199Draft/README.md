@@ -1,27 +1,22 @@
 > # Social Media Analytics w/ Tableau 
-> ### _Karlina Ho || DGT HUM 199 
+> ### _Karlina Ho || DGT HUM 199_ 
 
 
 ## Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#Introduction)
     + [Purpose](#purpose)
     + [Who is this For?](#who-is-this-for)
-    + [Importance of Social Media Analytics](#importance-of-social-media-analytics)
-2. [Tutorial](#tutorial)
+2. [Importance of Social Media Analytics](#importance-of-social-media-analytics)
+3. [Tutorial](#tutorial)
     + [Installing Tableau Desktop](#installing-tableau-desktop)
-        + [Different Types of Inputs](inputs.md) 
-        + [Different Types of Outputs](outputs.md)
-        + 
-    + [Coding the Back-End](#coding-the-back-end)
-      + [Displaying Reactive Output](#displaying-reactive-output)
-4. [Additional Components](#additional-components)
-  + [Changing the Layout](#changing-layout)
-  + [Additional Web App Content](#additional-content)
-5. [Advanced Features](#advanced-features)
+    + [Importing Social Media Data into Tableau](#importing-social-media-data-into-tableau)
+4. [Data Visualizations](#data-visualizations)
+    + [What are KPI's?](#what-are-kpis)
+    + [Creating Basic Data Visuazalitons in Tableau](#creating-basic-data-visualizations)
+5. [FAQ's](#faqs)
 
 
-
-## 💻  *Introduction*
+## 💻  **Introduction*
 ### *Purpose* 
 * Learn how to export data directly from social media platforms such as Facebook from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
 * Data visuzalizations can be used for analyzing and making informed decisions to optimize future social media campaigns and content. 
@@ -35,7 +30,7 @@
   * Recognizing competitor social media strategies and the effectiveness of their social media campaigns 
 * As a result, the development and improvement of products, business operations, and consumer experience can be postively influenced through these analyzations. However, how do we intepret these mass amounts of data on our social media accounts? 
 ## 💻 *Tutorial*
-This tutorial unconvers the basics of how brands can benefit through the storytelling of Instagram analytics through ***data visualizations*** via Tableau. 
+This tutorial unconvers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
 ### *Installing Tableau Desktop*
 * [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableu Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
 * **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop) 
@@ -117,7 +112,7 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 * These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies. 
 
 
-## 💻  *Notes*
+## 💻  *FAQ's*
 * Pick one specific focus on the tutorial (can only have so much information) ; question of how far do I explain this? Could be a whole other tutorial in itself 
 * Address the needs of your audience without compromising your own experiences 
 * Datasets are often limited, therefore can only do so much analysis with one specific tutorial 
