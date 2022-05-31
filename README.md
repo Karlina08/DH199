@@ -37,13 +37,12 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 ### *Installing Tableau Desktop*
 * [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableu Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
 
-* **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop) 
-<p align="center">
-    <img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
-   
+* **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop)
 * **Step 2:** Click "Try Now"
 <p align="center">
     <img width="850" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
+    <p align="center">
+    <img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
 
 * **Step 3:** Begin Your Free Trial  
 <p align="center">
