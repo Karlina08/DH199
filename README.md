@@ -37,6 +37,10 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 * **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop) 
 <p align="center">
 <img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
+    
+* **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop) 
+<p align="center">
+<img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
 
 * **Step 2:** Click "Try Now"  
 <p align="center">
