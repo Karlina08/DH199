@@ -45,16 +45,7 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 * **Step 2:** Click "Try Now"
 <p align="center">
     <img width="850" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
-    
-    
-    
-    
-    
 
-* **Step 2:** Click "Try Now" 
-* **Step 2** Visit [Tableau](https://www.tableau.com/products/desktop) 
-<p align="center">
-<img width="850" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
 
 * **Step 3:** Begin Your Free Trial  
 <p align="center">
@@ -67,7 +58,8 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
  
 * **Step 5:** Begin Downloading the .exe File
   *  On the bottom of the screen, click the file to beging the downloading process
-  *   <img width="900" alt="Screen Shot 2022-05-10 at 8 56 53 AM" src="https://user-images.githubusercontent.com/79784875/167671327-ab727200-3594-4bcb-b23d-1de19b2a323c.png">
+    <p align="center">
+        <img width="900" alt="Screen Shot 2022-05-10 at 8 56 53 AM" src="https://user-images.githubusercontent.com/79784875/167671327-ab727200-3594-4bcb-b23d-1de19b2a323c.png">
   
 * **Step 6:** Open the File and Accept the Terms and Conditions. Click "Install."
   *  <img width="1280" alt="Screen Shot 2022-05-10 at 8 58 17 AM" src="https://user-images.githubusercontent.com/79784875/167671588-9a105fd2-daef-422b-84f0-0a8f3a190715.png">
