@@ -5,16 +5,16 @@
 1. [Introduction](#Introduction)
     + [Purpose](#purpose)
     + [Who is this For?](#who-is-this-for)
-2. [Importance of Social Media Analytics](#importance-of-social-media-analytics)
-3. [Preparing for Tableau: Tutorial](#preparing-for-tableau-tutorial)
+2. [Social Media Analytics](#social-media-analytics)
+    + [Importance](#importance)
+    + [What are KPI's?](#what-are-kpis)
+4. [Preparing for Tableau: Tutorial](#preparing-for-tableau-tutorial)
     + [Installing Tableau Desktop](#installing-tableau-desktop)
     + [Exporting Facebook Page's Insights Data for Tableau](#exporting-facebook-pages-insights-data-for-tableau)
-4. [Tableau: Data Visualizations](#tableau-data-visualizations)
+5. [Tableau: Data Visualizations](#tableau-data-visualizations)
     + [Importing Social Media Data into Tableau: Facebook](#importing-social-media-data-into-tableau-facebook)
     + [Creating Basic Data Visuazalitons in Tableau](#creating-basic-data-visualizations)
-    + [What are KPI's?](#what-are-kpis)
-    + [Create a New Worksheet in Tableau](#create-a-new-worksheet-in-tableau)
-5. [FAQ's](#faqs)
+6. [FAQ's](#faqs)
 
 
 
@@ -25,15 +25,19 @@
 * This specific tutorial is aimed at importing Facebook Business Account data into Tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
 
 ## *Who is This For?* 
-* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on their business Facebook account and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
+* This tutorial was created by an aspiring marketer interested in pursuing a career in digital marketing, and is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on their business Facebook account and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
 
-# 💻 **Importance of Social Media Analytics**
+# 💻 **Social Media Analytics**
+## *Importance*
 * For businesses, marketers, influencers, and more, interpreting [social media analytics](https://www.ibm.com/topics/social-media-analytics) remain crucial in understanding the behaviors and wants of their target audiences including: 
   * Uncovering of social media trends and products/services that consumers respond postively to  
   * Understanding consumer attitudes, conversations, and responses to social media content 
   * Improving existing in-house and user-generated content 
   * Recognizing competitor social media strategies and the effectiveness of their social media campaigns 
 * As a result, the development and improvement of products, business operations, and consumer experience can be postively influenced through these analyzations. However, how do we intepret these mass amounts of data on our social media accounts? 
+
+## *What are KPI's?*
+* Key performance indicators, or KPI's are defined measurable metrics that companies and individuals track on their social media platforms to analyze both their performance on social media platforms as well as their return on investments regarding social media expenditures. Read more about the importance of KPI's for your organization [here](https://www.linkedin.com/pulse/5-reasons-why-kpis-important-your-companys-growth-louise-leith-/). 
 
 # 💻 **Preparing for Tableau: Tutorial**
 This tutorial uncovers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
@@ -65,10 +69,7 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
   * ### Step 3: Wait for your Facebook Insight to Load onto Tableau <img width="1045" alt="Screen Shot 2022-05-31 at 12 36 49 AM" src="https://user-images.githubusercontent.com/79784875/171118519-ee58f324-cb2b-4823-b8b2-e55ffbd0a54c.png">
 
 # 💻*Creating Basic Data Visualizations*
-* Once you data is successfully uploaded into Tableau, you can then create data visuazations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
-
-## *What are KPI's?*
-* Key performance indicators, or KPI's are defined measurable metrics that companies and individuals track on their social media platforms to analyze both their performance on social media platforms as well as their return on investments regarding social media expenditures. 
+* Once you data is successfully uploaded into Tableau, you can then create data visualizations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
 
 ## *Create a New Worksheet in Tableau*
   * ##
