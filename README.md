@@ -14,7 +14,7 @@
 5. [Tableau: Data Visualizations](#tableau-data-visualizations)
     + [Importing Social Media Data into Tableau: Facebook](#importing-social-media-data-into-tableau-facebook)
     + [Creating Basic Data Visuazalitons in Tableau](#creating-basic-data-visualizations)
-6. [Analyzing Basic Data Visualizations]
+6. [Analyzing Basic Data Visualizations](#analyzing-basic-data-visualizations)
 7. [FAQ's](#faqs)
 
 
@@ -84,45 +84,9 @@ Once you create your desired data visualizations, you can begin analyzing the da
   * What tags or hashtags were used to garner greater visability? 
   * What are commenters saying about the post. What are their reactions? 
   * What kind of content is reaching the most people?  
-* These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies.  
-<p align="center">
-    <img width="658" alt="Screen Shot 2022-05-31 at 1 26 01 AM" src="https://user-images.githubusercontent.com/79784875/171128163-201c6d7a-978b-437b-ad55-71fecf2371b4.png">
+* These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies. 
 
-
-## 💻 **FAQ's**
-
-
-
-
-
-
-
-
-
-
-
-
-
--------------------------
-                
-
-*Through this data visuzation, we are able to see that the greatest number of likes acquired was through a post at 4:22pm. Similarly, the 2nd highest post that recieved the highest number of likes was posted around the same time (4:58pm). As a result, this data visuzation uncovers a potential posting time for our account. 
-* Now, we are able to dig further into the content and consider other variables such as: 
-  * What medium were these posts? Were they videos, static images, carousels, Reels, etc.?
-  * Were any of these posts associated with a specific campaign? 
-  * What tags or hashtags were used to garner greater visability? 
-  * What are commenters saying about the post. What are their reactions? 
-
-* These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies.       
-                 
-                 
-                 
-                
-
-                 
-                 
-                 
-## 💻 **FAQ's**
+* ## 💻 **FAQ's**
 * Can I use A Facebook Data Connector?
   * Yes, you may! Unfortunately, if your laptop does not have the latest version of Tableau installed, you will be unable to connect your Facebook data. Consequently, importing the data straight from your Facebook page as a csv. file may be best! If you're still interested, [click here](https://www.tableau.com/solutions/workbook/facebook-connector) to learn how to extract your data into Tableau. 
 
@@ -131,3 +95,25 @@ Once you create your desired data visualizations, you can begin analyzing the da
 
 * How Can I Make a More Sophisticated Graph on Tableau, such as Changing the Color, Adding More Columns and Rows, etc.?
   * There are an endless amount of data visualizations you can create on Tableau. To create a specific data visualization, refer to this [guide](https://help.tableau.com/current/pro/desktop/en-us/getstarted_buildmanual_ex1basic.htm) created by Tableau to add depth to your graphs. If you are interested in created a social media dashboard for your large data set, refer to this [video](https://www.youtube.com/watch?v=gGZ5-cn5ePk) for design inspiration. 
+
+
+
+<p align="center">
+    <img width="658" alt="Screen Shot 2022-05-31 at 1 26 01 AM" src="https://user-images.githubusercontent.com/79784875/171128163-201c6d7a-978b-437b-ad55-71fecf2371b4.png">
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
+                 
+                 
+                 
+                
