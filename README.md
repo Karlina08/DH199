@@ -8,14 +8,14 @@
 2. [Social Media Analytics](#social-media-analytics)
     + [Importance](#importance)
     + [What are KPI's?](#what-are-kpis)
-4. [Preparing for Tableau: Tutorial](#preparing-for-tableau-tutorial)
+4. [Frequently Asked Questions](#frequently-asked-questions)
+5. [Preparing for Tableau: Tutorial](#preparing-for-tableau-tutorial)
     + [Installing Tableau Desktop](#installing-tableau-desktop)
     + [Exporting Facebook Page's Insights Data for Tableau](#exporting-facebook-pages-insights-data-for-tableau)
 5. [Tableau: Data Visualizations](#tableau-data-visualizations)
     + [Importing Social Media Data into Tableau: Facebook](#importing-social-media-data-into-tableau-facebook)
     + [Creating Basic Data Visuazalitons in Tableau](#creating-basic-data-visualizations)
 6. [Analyzing Basic Data Visualizations](#analyzing-basic-data-visualizations)
-7. [FAQ's](#faqs)
 
 
 # 💻  **Introduction**
@@ -38,6 +38,16 @@
 
 ## *What are KPI's?*
 * Key performance indicators, or KPI's are defined measurable metrics that companies and individuals track on their social media platforms to analyze both their performance on social media platforms as well as their return on investments regarding social media expenditures. Read more about the importance of KPI's for your organization [here](https://www.linkedin.com/pulse/5-reasons-why-kpis-important-your-companys-growth-louise-leith-/). 
+
+# 💻 **Frequently Asked Questions**
+* Can I use A Facebook Data Connector?
+  * Yes, you may! Unfortunately, if your laptop does not have the latest version of Tableau installed, you will be unable to connect your Facebook data. Consequently, importing the data straight from your Facebook page as a csv. file may be best! However, if you're still interested, [click here](https://www.tableau.com/solutions/workbook/facebook-connector) to learn how to extract your data into Tableau. 
+
+* Can I Import Any Other Type of Social Media Analytics into Tableau?
+  * Yes, absolutely. To access the data, you must connect your specific social media platform to Tableau. For a more detailed tutorial to connect your desired social media platform to Tableau, [watch this video](https://www.youtube.com/watch?v=lIHhVW8DAls&list=LL&index=7&t=1345s). Instructions begin on 12:14! 
+
+* How Can I Make a More Sophisticated Graph on Tableau, such as Changing the Color, Adding More Columns and Rows, etc.?
+  * There are an endless amount of data visualizations you can create on Tableau. To create a specific data visualization, refer to this [guide](https://help.tableau.com/current/pro/desktop/en-us/getstarted_buildmanual_ex1basic.htm) created by Tableau to add depth to your graphs. If you are interested in created a social media dashboard for your large data set, refer to this [video](https://www.youtube.com/watch?v=gGZ5-cn5ePk) for design inspiration. This tutorial covers the basics of Tableau.  
 
 # 💻 **Preparing for Tableau: Tutorial**
 This tutorial uncovers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
@@ -84,19 +94,6 @@ Once you create your desired data visualizations, you can begin analyzing the da
   * What are commenters saying about the post. What are their reactions? 
   * What kind of content is reaching the most people?  
 * These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies. 
-
-## 💻 **FAQ's**
-* Can I use A Facebook Data Connector?
-  * Yes, you may! Unfortunately, if your laptop does not have the latest version of Tableau installed, you will be unable to connect your Facebook data. Consequently, importing the data straight from your Facebook page as a csv. file may be best! If you're still interested, [click here](https://www.tableau.com/solutions/workbook/facebook-connector) to learn how to extract your data into Tableau. 
-
-* Can I Import Any Other Type of Social Media Analytics into Tableau?
-  * Yes, absolutely. To access the data, you must connect your specific social media platform to Tableau. For a more detailed tutorial to connect your desired social media platform to Tableau, [watch this video](https://www.youtube.com/watch?v=lIHhVW8DAls&list=LL&index=7&t=1345s). Instructions begin on 12:14! 
-
-* How Can I Make a More Sophisticated Graph on Tableau, such as Changing the Color, Adding More Columns and Rows, etc.?
-  * There are an endless amount of data visualizations you can create on Tableau. To create a specific data visualization, refer to this [guide](https://help.tableau.com/current/pro/desktop/en-us/getstarted_buildmanual_ex1basic.htm) created by Tableau to add depth to your graphs. If you are interested in created a social media dashboard for your large data set, refer to this [video](https://www.youtube.com/watch?v=gGZ5-cn5ePk) for design inspiration. 
-
-
-
 <p align="center">
     <img width="658" alt="Screen Shot 2022-05-31 at 1 26 01 AM" src="https://user-images.githubusercontent.com/79784875/171128163-201c6d7a-978b-437b-ad55-71fecf2371b4.png">
 
