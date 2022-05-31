@@ -1,6 +1,5 @@
 # Social Media Analytics with Tableau 
-> ### _Karlina Ho || DGT HUM 199_ 
-
+> ### _Karlina Ho || DGT HUM 199_ 			
 
 ##  💻  Table of Contents
 1. [Introduction](#Introduction)
@@ -73,6 +72,8 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 
 ### *Importing Social Media Data into Tableau: Facebook*
 * This specific tutorial is aimed at importing Facebook data into tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
+               
+           
 * **Step 1:** Click "More" Underneath "To a Server"  
   * <img width="1120" alt="Screen Shot 2022-05-01 at 4 29 07 PM" src="https://user-images.githubusercontent.com/79784875/166168930-fc71a02a-159b-49ed-97f9-80a77d44c542.png">
 
