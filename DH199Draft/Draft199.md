@@ -71,3 +71,24 @@
 * **Step 8:** Access Your Tableau Start Screen 
              <p align="center">
   *  <img width="1280" alt="Screen Shot 2022-05-10 at 9 32 07 AM" src="https://user-images.githubusercontent.com/79784875/167678136-0768ec73-c37e-4233-ae94-5c3f4f401d28.png">
+
+               
+               
+            * **Step 1:** Click "More" Underneath "To a Server"  
+  * <img width="1120" alt="Screen Shot 2022-05-01 at 4 29 07 PM" src="https://user-images.githubusercontent.com/79784875/166168930-fc71a02a-159b-49ed-97f9-80a77d44c542.png">
+
+* **Step 2:** Click "Web Data Connector" 
+  * <img width="1120" alt="Screen Shot 2022-05-01 at 4 30 13 PM" src="https://user-images.githubusercontent.com/79784875/166168963-c30bbe51-3bb9-45ab-bf44-4ea79fb0a325.png">
+
+* **Step 3:** Copy and Paste the Link, "https://illonage.github.io:443/" and connect your Instagram Account to Tableau 
+  * <img width="801" alt="Screen Shot 2022-05-01 at 4 40 56 PM" src="https://user-images.githubusercontent.com/79784875/166169315-63737dce-929f-405f-a8d6-7e50ff6e582d.png">
+
+* **Step 4:** Log into your Desired Instagram Account 
+  * <img width="796" alt="Screen Shot 2022-05-01 at 4 44 14 PM" src="https://user-images.githubusercontent.com/79784875/166169446-0fe0e9b4-759c-4736-b459-fa576a272658.png">
+
+* **Step 5:** Select "Get the Data from Your Account"
+  * <img width="1277" alt="Screen Shot 2022-05-02 at 5 04 14 PM" src="https://user-images.githubusercontent.com/79784875/166344822-f09f86c4-d987-487d-b61f-9d731cb234ba.png">
+  * <img width="1280" alt="Screen Shot 2022-05-02 at 5 04 32 PM" src="https://user-images.githubusercontent.com/79784875/166344843-7ec868c3-3dca-452c-b7d7-9d09a2dff6e4.png">
+
+* **Step 6:** Once you see "Results for Empty Empty," Click on "Automatically Update." Here, your social media analytics will load onto Tableau. 
+  *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
