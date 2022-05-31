@@ -1,5 +1,4 @@
-# DH199
-> # Social Media Analytics w/ Tableau 
+# Social Media Analytics with Tableau 
 > ### _Karlina Ho || DGT HUM 199_ 
 
 
