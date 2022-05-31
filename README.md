@@ -20,10 +20,10 @@
 ## *Purpose* 
 * Learn how to export data directly from social media platforms such as Facebook from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
 * Data visuzalizations can be used for analyzing and making informed decisions to optimize future social media campaigns and content. 
-* This specific tutorial is aimed at importing Facebook data into Tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
+* This specific tutorial is aimed at importing Facebook Business Account data into Tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
 
 ## *Who is This For?* 
-* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on Facebook and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
+* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on their business Facebook account and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
 
 # 💻 **Importance of Social Media Analytics**
 * For businesses, marketers, influencers, and more, interpreting [social media analytics](https://www.ibm.com/topics/social-media-analytics) remain crucial in understanding the behaviors and wants of their target audiences including: 
@@ -50,7 +50,10 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 
 ## *Exporting Facebook Page's Insights Data for Tableau* 
   * ### Step 1: From your Facebook News Feed, click the "Pages" button in the left menu.<img width="850" alt="Screen Shot 2022-05-30 at 10 50 37 PM" src="https://user-images.githubusercontent.com/79784875/171101953-4f2ebcd3-6140-4a67-88e8-f2dac10fc89c.png">
-  * ### Step 2: 
+  * ### Step 2: Select your desired Facebook Page "<img width="850" alt="Screen Shot 2022-05-30 at 11 13 11 PM" src="https://user-images.githubusercontent.com/79784875/171104958-02ce171e-7a55-4f45-9b43-4e41fd638a9c.png">
+  * ### Step 3: Click the "Insights" Tab on the left menu <img width="1051" alt="Screen Shot 2022-05-30 at 11 15 56 PM" src="https://user-images.githubusercontent.com/79784875/171105318-a53873a6-b8da-485a-96ca-77d00a9f12b6.png">
+
+
 
 
 
