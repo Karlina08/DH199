@@ -54,27 +54,19 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
   * ### Step 3: Click the "Insights" Tab on the left menu <img width="850" alt="Screen Shot 2022-05-30 at 11 15 56 PM" src="https://user-images.githubusercontent.com/79784875/171105318-a53873a6-b8da-485a-96ca-77d00a9f12b6.png">
   * ### Step 4: Click "Export Data" <img width="850" alt="Screen Shot 2022-05-30 at 11 33 18 PM" src="https://user-images.githubusercontent.com/79784875/171107730-884e35b6-aead-4d1a-be12-ad3bdf3ccb22.png">
   * ### Step 5: Select desired data type, file format, and date range. CSV file recommended for Tableau. <img width="850" alt="Screen Shot 2022-05-30 at 11 34 19 PM" src="https://user-images.githubusercontent.com/79784875/171107875-49b18a8c-2a14-4830-a3f7-e29468929f28.png">
-
-  * 
-
+  * ### Step 6: Export Data <img width="1041" alt="Screen Shot 2022-05-30 at 11 37 39 PM" src="https://user-images.githubusercontent.com/79784875/171108320-35cb01cd-114b-46aa-aa76-80ef8794b25b.png">
 
 
+# 💻 **Data Visualizations**
+## *Importing Social Media Data into Tableau: Facebook*
 
 
 
-Go to your Page.
-Click Insights in the left menu.
-Click Export Data in the top right.
-Select a data type, file format and date range. You may also need to choose a layout.
-Click Export Data again.
 
-* 
-* 
 
 
 -------------------------
-               
-Importing social Media Data into Tableau: Facebook*       
+                 
 * **Step 1:** Click "More" Underneath "To a Server"  
   * <img width="1120" alt="Screen Shot 2022-05-01 at 4 29 07 PM" src="https://user-images.githubusercontent.com/79784875/166168930-fc71a02a-159b-49ed-97f9-80a77d44c542.png">
 
