@@ -14,7 +14,8 @@
 5. [Tableau: Data Visualizations](#tableau-data-visualizations)
     + [Importing Social Media Data into Tableau: Facebook](#importing-social-media-data-into-tableau-facebook)
     + [Creating Basic Data Visuazalitons in Tableau](#creating-basic-data-visualizations)
-6. [FAQ's](#faqs)
+6. [Analyzing Basic Data Visualizations]
+7. [FAQ's](#faqs)
 
 
 
@@ -25,7 +26,7 @@
 * This specific tutorial is aimed at importing Facebook Business Account data into Tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
 
 ## *Who is This For?* 
-* This tutorial was created by an aspiring marketer interested in pursuing a career in digital marketing, and is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on their business Facebook account and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
+* This tutorial was created by an aspiring marketer interested in pursuing a career in digital marketing, and is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on their business Facebook account and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. Although this tutorial is not an extensive step-by-step guide on how to create data visualizations in Tabelau, this guide will lay the foundation to begin making informed decisions about their digital marketing strategies.
 
 # 💻 **Social Media Analytics**
 ## *Importance*
@@ -69,9 +70,13 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
   * ### Step 3: Wait for your Facebook Insight to Load onto Tableau <img width="1045" alt="Screen Shot 2022-05-31 at 12 36 49 AM" src="https://user-images.githubusercontent.com/79784875/171118519-ee58f324-cb2b-4823-b8b2-e55ffbd0a54c.png">
 
 # 💻*Creating Basic Data Visualizations*
-* Once you data is successfully uploaded into Tableau, you can then create data visualizations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
+* Once you data is successfully uploaded into Tableau, you can then create data visualizations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Obtain the Greatest Reach?" 
   * ### Step 1: Create a New Worksheet in Tableau <img width="950" alt="Screen Shot 2022-05-31 at 12 57 20 AM" src="https://user-images.githubusercontent.com/79784875/171122530-6847ef7f-c048-4525-bc32-d1531128efed.png">
-  * ### Step 2: Drag Desired Data from Data Pane into Respective Rows and Columns. This will create a data visualization. 
+  * ### Step 2: Drag Desired Data from Data Pane into Respective Rows and Columns. This will "build a view," or create a data visualization. This is not your final data visualization. <img width="1280" alt="Screen Shot 2022-05-31 at 1 16 09 AM" src="https://user-images.githubusercontent.com/79784875/171126151-323b1a5d-b873-4efd-b9f4-7a5c9dd8f504.png">
+  * ### Step 3: To Further Explore your Data, [click here](https://help.tableau.com/current/pro/desktop/en-us/getstarted_buildmanual_ex1basic.htm) to learn more. Your data visualization will evolve as you continue to explore the tools Tableau has to offer. <img width="1280" alt="Screen Shot 2022-05-31 at 1 15 27 AM" src="https://user-images.githubusercontent.com/79784875/171126004-6ece90a0-2d3d-4fdf-98b5-4acd40fee1df.png">
+
+# 💻*Analyzing Basic Data Visualizations*
+
 
 
 
@@ -85,18 +90,6 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
 -------------------------
                  
                
-
-
-
-### *Creating Data Visualizations in Tableau*
-* **Step 1:** Ensure your Data is Extracted
-  *<img width="1089" alt="Screen Shot 2022-05-02 at 10 55 57 PM" src="https://user-images.githubusercontent.com/79784875/166410057-c61417c8-3fc1-4709-acf1-9bbbcaa91b28.png">
-
-* **Step 2:** Click on "Sheet 1" to Access Data Visualization Dashboard 
-  * <img width="1118" alt="Screen Shot 2022-05-02 at 10 59 02 PM" src="https://user-images.githubusercontent.com/79784875/166410282-5b3b1537-ca8b-45df-9c5e-0dbf0dccf232.png">
-
-* **Step 3:** Drag Desired Variables Under "Table" into Respective Rows and Columns. This will create a data visualization. 
-  * <img width="1275" alt="Screen Shot 2022-05-03 at 9 11 41 AM" src="https://user-images.githubusercontent.com/79784875/166492539-267ad8c4-6b88-42c5-9e42-cce0deb8f57c.png">
 
  ### *Analyzing Basic Data Visualizations*
 * Once you create your desired data visualizations, you can begin analyzing the data by posing questions around your KPI's you chose to analyze. For this tutorial our chosen KPI was the number of likes. 
