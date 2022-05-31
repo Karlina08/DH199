@@ -9,7 +9,7 @@
 2. [Importance of Social Media Analytics](#importance-of-social-media-analytics)
 3. [Tutorial](#tutorial)
     + [Installing Tableau Desktop](#installing-tableau-desktop)
-    + [Importing Social Media Data into Tableau](#importing-social-media-data-into-tableau)
+    + [Importing Social Media Data into Tableau: Facebook](#importing-social-media-data-into-tableau-facebook)
 4. [Data Visualizations](#data-visualizations)
     + [What are KPI's?](#what-are-kpis)
     + [Creating Basic Data Visuazalitons in Tableau](#creating-basic-data-visualizations)
@@ -41,11 +41,9 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 <p align="center">
     <img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
    
-    
 * **Step 2:** Click "Try Now"
 <p align="center">
     <img width="850" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
-
 
 * **Step 3:** Begin Your Free Trial  
 <p align="center">
@@ -62,12 +60,15 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
         <img width="900" alt="Screen Shot 2022-05-10 at 8 56 53 AM" src="https://user-images.githubusercontent.com/79784875/167671327-ab727200-3594-4bcb-b23d-1de19b2a323c.png">
   
 * **Step 6:** Open the File and Accept the Terms and Conditions. Click "Install."
-  *  <img width="1280" alt="Screen Shot 2022-05-10 at 8 58 17 AM" src="https://user-images.githubusercontent.com/79784875/167671588-9a105fd2-daef-422b-84f0-0a8f3a190715.png">
+   <p align="center">
+        <img width="1280" alt="Screen Shot 2022-05-10 at 8 58 17 AM" src="https://user-images.githubusercontent.com/79784875/167671588-9a105fd2-daef-422b-84f0-0a8f3a190715.png">
 
 * **Step 7:** Fill Out the Registration Window
+        <p align="center">
   *  <img width="1280" alt="Screen Shot 2022-05-10 at 9 29 23 AM" src="https://user-images.githubusercontent.com/79784875/167677697-7f81fbd0-c22d-4bba-9b90-46c18fe0bb50.png">
 
 * **Step 8:** Access Your Tableau Start Screen 
+             <p align="center">
   *  <img width="1280" alt="Screen Shot 2022-05-10 at 9 32 07 AM" src="https://user-images.githubusercontent.com/79784875/167678136-0768ec73-c37e-4233-ae94-5c3f4f401d28.png">
 
 
