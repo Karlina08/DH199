@@ -26,7 +26,7 @@
 * This specific tutorial is aimed at importing Facebook Business Account data into Tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
 
 ## *Who is This For?* 
-* This tutorial was created by an aspiring marketer interested in pursuing a career in digital marketing, and is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on their business Facebook account and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. Although this tutorial is not an extensive step-by-step guide on how to create data visualizations in Tabelau, this guide will lay the foundation to begin making informed decisions about their digital marketing strategies.
+* This tutorial was created by an aspiring marketer interested in pursuing a career in digital marketing, and is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on their business Facebook account and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. Although this tutorial is not an extensive step-by-step guide on how to create data visualizations on Tableau, this guide will lay the foundation to begin making informed decisions about digital marketing strategies. Additionally, multiple external sources are linked to build skills.
 
 # 💻 **Social Media Analytics**
 ## *Importance*
@@ -75,7 +75,23 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
   * ### Step 2: Drag Desired Data from Data Pane into Respective Rows and Columns. This will "build a view," or create a data visualization. This is not your final data visualization. <img width="1280" alt="Screen Shot 2022-05-31 at 1 16 09 AM" src="https://user-images.githubusercontent.com/79784875/171126151-323b1a5d-b873-4efd-b9f4-7a5c9dd8f504.png">
   * ### Step 3: To Further Explore your Data, [click here](https://help.tableau.com/current/pro/desktop/en-us/getstarted_buildmanual_ex1basic.htm) to learn more. Your data visualization will evolve as you continue to explore the tools Tableau has to offer. <img width="1280" alt="Screen Shot 2022-05-31 at 1 15 27 AM" src="https://user-images.githubusercontent.com/79784875/171126004-6ece90a0-2d3d-4fdf-98b5-4acd40fee1df.png">
 
-# 💻*Analyzing Basic Data Visualizations*
+# 💻 *Analyzing Basic Data Visualizations*
+Once you create your desired data visualizations, you can begin analyzing the data by posing questions around your KPI's you chose to analyze. For this tutorial our chosen KPI was the number of unique accounts reached from each post.
+*Through this data visuzation, we are able to see that the greatest number of accounts reached was through a Facebook photo that was posted at 5:55pm. The post that recieved the 2nd highest number of accounts was posted about three hours beforehand (2:46pm). As a result, this data visuzation uncovers a potential posting time for our account— late afternoon to early evening. Upon further inspection, the average time of the top 5 posts that garnered the highest reach is about 3:30pm, suggesting for the social media account to become most active at that time.  
+* Now, we are able to dig further into the content and consider other variables such as: 
+  * What medium were these posts? Were they videos, static images, carousels, Reels, etc.?
+  * Were any of these posts associated with a specific campaign? 
+  * What tags or hashtags were used to garner greater visability? 
+  * What are commenters saying about the post. What are their reactions? 
+  * What kind of content is reaching the most people?  
+* These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies.  
+<p align="center">
+    <img width="658" alt="Screen Shot 2022-05-31 at 1 26 01 AM" src="https://user-images.githubusercontent.com/79784875/171128163-201c6d7a-978b-437b-ad55-71fecf2371b4.png">
+
+
+## 💻 **FAQ's**
+
+
 
 
 
@@ -88,13 +104,7 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
 
 
 -------------------------
-                 
-               
-
- ### *Analyzing Basic Data Visualizations*
-* Once you create your desired data visualizations, you can begin analyzing the data by posing questions around your KPI's you chose to analyze. For this tutorial our chosen KPI was the number of likes. 
-
-<img width="1275" alt="Screen Shot 2022-05-03 at 9 11 41 AM" src="https://user-images.githubusercontent.com/79784875/166492539-267ad8c4-6b88-42c5-9e42-cce0deb8f57c.png">
+                
 
 *Through this data visuzation, we are able to see that the greatest number of likes acquired was through a post at 4:22pm. Similarly, the 2nd highest post that recieved the highest number of likes was posted around the same time (4:58pm). As a result, this data visuzation uncovers a potential posting time for our account. 
 * Now, we are able to dig further into the content and consider other variables such as: 
