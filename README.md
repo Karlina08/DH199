@@ -1,7 +1,7 @@
 # Social Media Analytics with Tableau 
 > ### _Karlina Ho || DGT HUM 199_ 			
 
-##  💻  Table of Contents
+#  💻  Table of Contents
 1. [Introduction](#Introduction)
     + [Purpose](#purpose)
     + [Who is this For?](#who-is-this-for)
@@ -15,15 +15,15 @@
 5. [FAQ's](#faqs)
 
 
-## 💻  **Introduction**
-### *Purpose* 
+# 💻  **Introduction**
+## *Purpose* 
 * Learn how to export data directly from social media platforms such as Facebook from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
 * Data visuzalizations can be used for analyzing and making informed decisions to optimize future social media campaigns and content. 
 
-### *Who is This For?* 
+## *Who is This For?* 
 * This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on Facebook and creating a story through basic [data visualzations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
 
-## 💻 **Importance of Social Media Analytics**
+# 💻 **Importance of Social Media Analytics**
 * For businesses, marketers, influencers, and more, interpreting [social media analytics](https://www.ibm.com/topics/social-media-analytics) remain crucial in understanding the behaviors and wants of their target audiences including: 
   * Uncovering of social media trends and products/services that consumers respond postively to  
   * Understanding consumer attitudes, conversations, and responses to social media content 
@@ -31,11 +31,11 @@
   * Recognizing competitor social media strategies and the effectiveness of their social media campaigns 
 * As a result, the development and improvement of products, business operations, and consumer experience can be postively influenced through these analyzations. However, how do we intepret these mass amounts of data on our social media accounts? 
 
-## 💻 **Tutorial**
+# 💻 **Tutorial**
 This tutorial unconvers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
 * [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableu Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
 
-### *Installing Tableau Desktop*
+## *Installing Tableau Desktop*
   * ### Step 1: Visit [Tableau](https://www.tableau.com/products/desktop)<img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
   * ### Step 2: Click "Try Now"<img width="850" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
   * ### Step 3: Begin Your Free Trial <img width="850" alt="Screen Shot 2022-05-10 at 9 21 31 AM" src="https://user-images.githubusercontent.com/79784875/167676162-ca3e3737-6d0b-4d40-8e2d-5eb27a257c38.png">
@@ -46,45 +46,12 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
   * ### Step 7: Fill Out the Registration Window <img width="850" alt="Screen Shot 2022-05-10 at 9 29 23 AM" src="https://user-images.githubusercontent.com/79784875/167677697-7f81fbd0-c22d-4bba-9b90-46c18fe0bb50.png">
   * ### Step 8: Access Your Tableau Start Screen <img width="850" alt="Screen Shot 2022-05-10 at 9 32 07 AM" src="https://user-images.githubusercontent.com/79784875/167678136-0768ec73-c37e-4233-ae94-5c3f4f401d28.png">
 
-----------------
-* **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop)
-<p align="center">
-  <img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
-    
-* **Step 2:** Click "Try Now"
-<p align="center">
-    <img width="850" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
-    <p align="center">
-
-* **Step 3:** Begin Your Free Trial  
-<p align="center">
-<img width="850" alt="Screen Shot 2022-05-10 at 9 21 31 AM" src="https://user-images.githubusercontent.com/79784875/167676162-ca3e3737-6d0b-4d40-8e2d-5eb27a257c38.png">
-
-* **Step 4:** Create a Tableau Account and Request Free Trial
-<p align="center">
-    <img width="900" alt="Screen Shot 2022-05-10 at 9 22 27 AM" src="https://user-images.githubusercontent.com/79784875/167676364-90d45a0f-de6c-4184-b96e-a1bbab87ed19.png">
-    <img width="900" alt="Screen Shot 2022-05-10 at 9 24 12 AM" src="https://user-images.githubusercontent.com/79784875/167676738-b3097d20-c030-48d1-aca3-42e33425f464.png">
- 
-* **Step 5:** Begin Downloading the .exe File
-  *  On the bottom of the screen, click the file to beging the downloading process
-    <p align="center">
-        <img width="900" alt="Screen Shot 2022-05-10 at 8 56 53 AM" src="https://user-images.githubusercontent.com/79784875/167671327-ab727200-3594-4bcb-b23d-1de19b2a323c.png">
-  
-* **Step 6:** Open the File and Accept the Terms and Conditions. Click "Install."
-   <p align="center">
-        <img width="1280" alt="Screen Shot 2022-05-10 at 8 58 17 AM" src="https://user-images.githubusercontent.com/79784875/167671588-9a105fd2-daef-422b-84f0-0a8f3a190715.png">
-
-* **Step 7:** Fill Out the Registration Window
-        <p align="center">
-  *  <img width="1280" alt="Screen Shot 2022-05-10 at 9 29 23 AM" src="https://user-images.githubusercontent.com/79784875/167677697-7f81fbd0-c22d-4bba-9b90-46c18fe0bb50.png">
-
-* **Step 8:** Access Your Tableau Start Screen 
-             <p align="center">
-  *  <img width="1280" alt="Screen Shot 2022-05-10 at 9 32 07 AM" src="https://user-images.githubusercontent.com/79784875/167678136-0768ec73-c37e-4233-ae94-5c3f4f401d28.png">
-
-
-### *Importing Social Media Data into Tableau: Facebook*
+## *Importing Social Media Data into Tableau: Facebook*
 * This specific tutorial is aimed at importing Facebook data into tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
+* 
+
+
+-------------------------
                
            
 * **Step 1:** Click "More" Underneath "To a Server"  
