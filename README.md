@@ -6,14 +6,16 @@
     + [Purpose](#purpose)
     + [Who is this For?](#who-is-this-for)
 2. [Importance of Social Media Analytics](#importance-of-social-media-analytics)
-3. [Tutorial](#tutorial)
+3. [Preparing for Tableau: Tutorial](#preparing-for-tableau-tutorial)
     + [Installing Tableau Desktop](#installing-tableau-desktop)
     + [Exporting Facebook Page's Insights Data for Tableau](#exporting-facebook-pages-insights-data-for-tableau)
+4. [Tableau: Data Visualizations](#tableau-data-visualizations)
     + [Importing Social Media Data into Tableau: Facebook](#importing-social-media-data-into-tableau-facebook)
-4. [Data Visualizations](#data-visualizations)
-    + [What are KPI's?](#what-are-kpis)
     + [Creating Basic Data Visuazalitons in Tableau](#creating-basic-data-visualizations)
+    + [What are KPI's?](#what-are-kpis)
+    + [Create a New Worksheet in Tableau](#create-a-new-worksheet-in-tableau)
 5. [FAQ's](#faqs)
+
 
 
 # 💻  **Introduction**
@@ -33,14 +35,14 @@
   * Recognizing competitor social media strategies and the effectiveness of their social media campaigns 
 * As a result, the development and improvement of products, business operations, and consumer experience can be postively influenced through these analyzations. However, how do we intepret these mass amounts of data on our social media accounts? 
 
-# 💻 **Tutorial**
+# 💻 **Preparing for Tableau: Tutorial**
 This tutorial uncovers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
 * [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableau Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
 
 ## *Installing Tableau Desktop*
   * ### Step 1: Visit [Tableau](https://www.tableau.com/products/desktop)<img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
   * ### Step 2: Click "Try Now"<img width="850" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
-  * ### Step 3: Begin Your Free Trial <img width="850" alt="Screen Shot 2022-05-10 at 9 21 31 AM" src="https://user-images.githubusercontent.com/79784875/167676162-ca3e3737-6d0b-4d40-8e2d-5eb27a257c38.png">
+  * ### Step 3: Begin Your Free Trial <img width="850" alt="Screen Shot 2022-05-10 at 9 21 31 AM" src="https://user-images.githubusercontent.com/79784875/167676162-ca3e3737-6d0b-4d40-8e2d-5eb27a257c38.png"> 
   * ### Step 4: Create a Tableau Account and Request Free Trial  <img width="850" alt="Screen Shot 2022-05-10 at 9 22 27 AM" src="https://user-images.githubusercontent.com/79784875/167676364-90d45a0f-de6c-4184-b96e-a1bbab87ed19.png">
     <img width="850" alt="Screen Shot 2022-05-10 at 9 24 12 AM" src="https://user-images.githubusercontent.com/79784875/167676738-b3097d20-c030-48d1-aca3-42e33425f464.png">
   * ### Step 5: Begin Downloading the .exe File  <img width="850" alt="Screen Shot 2022-05-10 at 8 56 53 AM" src="https://user-images.githubusercontent.com/79784875/167671327-ab727200-3594-4bcb-b23d-1de19b2a323c.png">
@@ -56,12 +58,20 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
   * ### Step 5: Select desired data type, file format, and date range. CSV file recommended for Tableau. <img width="850" alt="Screen Shot 2022-05-30 at 11 34 19 PM" src="https://user-images.githubusercontent.com/79784875/171107875-49b18a8c-2a14-4830-a3f7-e29468929f28.png">
   * ### Step 6: Export Data <img width="850" alt="Screen Shot 2022-05-30 at 11 37 39 PM" src="https://user-images.githubusercontent.com/79784875/171108320-35cb01cd-114b-46aa-aa76-80ef8794b25b.png">
 
-
-# 💻 **Data Visualizations**
+# 💻 **Tableau: Data Visualizations**
 ## *Importing Social Media Data into Tableau: Facebook*
   * ### Step 1: Access Your Tableau Dashboard and click "Text File" <img width="1051" alt="Screen Shot 2022-05-31 at 12 35 04 AM" src="https://user-images.githubusercontent.com/79784875/171118182-ffa0e43f-7801-4f19-ab9b-af6f2e9bd2c8.png">
   * ### Step 2: Locate and Import your csv. file into Tableau <img width="1081" alt="Screen Shot 2022-05-31 at 12 35 46 AM" src="https://user-images.githubusercontent.com/79784875/171118339-efed4080-04c0-4a7b-bb28-11357f6a4b87.png">
   * ### Step 3: Wait for your Facebook Insight to Load onto Tableau <img width="1045" alt="Screen Shot 2022-05-31 at 12 36 49 AM" src="https://user-images.githubusercontent.com/79784875/171118519-ee58f324-cb2b-4823-b8b2-e55ffbd0a54c.png">
+
+# 💻*Creating Basic Data Visualizations*
+* Once you data is successfully uploaded into Tableau, you can then create data visuazations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
+
+## *What are KPI's?*
+* Key performance indicators, or KPI's are defined measurable metrics that companies and individuals track on their social media platforms to analyze both their performance on social media platforms as well as their return on investments regarding social media expenditures. 
+
+## *Create a New Worksheet in Tableau*
+  * ##
 
 
 
@@ -73,15 +83,10 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
 
 -------------------------
                  
-
-## 💻 **Data Visualizations**
                
  
  ### *Creating Basic Data Visualizations*
-* Once you data is successfully uploaded into Tableau, you can then create data visuazations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
 
-### *What are KPI's?*
-* Key performance indicators, or KPI's are defined measurable metrics that companies and individuals track on their social media platforms to analyze both their performance on social media platforms as well as their return on investments regarding social media expenditures.  
 
 ### *Creating Data Visualizations in Tableau*
 * **Step 1:** Ensure your Data is Extracted
