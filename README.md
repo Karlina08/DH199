@@ -2,7 +2,7 @@
 > ### _Karlina Ho || DGT HUM 199_ 
 
 
-## Table of Contents
+##  💻  Table of Contents
 1. [Introduction](#Introduction)
     + [Purpose](#purpose)
     + [Who is this For?](#who-is-this-for)
@@ -16,7 +16,7 @@
 5. [FAQ's](#faqs)
 
 
-## 💻  **Introduction*
+## 💻  **Introduction**
 ### *Purpose* 
 * Learn how to export data directly from social media platforms such as Facebook from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
 * Data visuzalizations can be used for analyzing and making informed decisions to optimize future social media campaigns and content. 
@@ -35,15 +35,16 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 * [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableu Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
 
 * **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop) 
-  * <img width="900" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
-  *
+<p align="center">
+<img width="900" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
 
- 
 * **Step 2:** Click "Try Now"  
-  * <img width="900" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
+<p align="center">
+<img width="900" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
 
 * **Step 3:** Begin Your Free Trial  
-  * <img width="900" alt="Screen Shot 2022-05-10 at 9 21 31 AM" src="https://user-images.githubusercontent.com/79784875/167676162-ca3e3737-6d0b-4d40-8e2d-5eb27a257c38.png">
+<p align="center">
+<img width="900" alt="Screen Shot 2022-05-10 at 9 21 31 AM" src="https://user-images.githubusercontent.com/79784875/167676162-ca3e3737-6d0b-4d40-8e2d-5eb27a257c38.png">
 
 * **Step 4:** Create a Tableau Account and Request Free Trial
   * <img width="900" alt="Screen Shot 2022-05-10 at 9 22 27 AM" src="https://user-images.githubusercontent.com/79784875/167676364-90d45a0f-de6c-4184-b96e-a1bbab87ed19.png">
