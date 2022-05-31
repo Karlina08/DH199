@@ -16,7 +16,7 @@
 5. [FAQ's](#faqs)
 
 
-## 💻  **Introduction*
+## 💻  **Introduction**
 ### *Purpose* 
 * Learn how to export data directly from social media platforms such as Facebook from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
 * Data visuzalizations can be used for analyzing and making informed decisions to optimize future social media campaigns and content. 
