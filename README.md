@@ -1,5 +1,5 @@
-# Social Media Analytics with Tableau 
-> ### _Karlina Ho || DGT HUM 199_ 			
+# *_Social Media Analytics with Tableau_*
+> ### Karlina Ho || DGT HUM 199 			
 
 #  💻  Table of Contents
 1. [Introduction](#Introduction)
@@ -8,6 +8,7 @@
 2. [Importance of Social Media Analytics](#importance-of-social-media-analytics)
 3. [Tutorial](#tutorial)
     + [Installing Tableau Desktop](#installing-tableau-desktop)
+    + [Exporting Facebook Page's Insights Data for Tableau](#exporting-facebook-pages-insights-data-for-tableau)
     + [Importing Social Media Data into Tableau: Facebook](#importing-social-media-data-into-tableau-facebook)
 4. [Data Visualizations](#data-visualizations)
     + [What are KPI's?](#what-are-kpis)
@@ -19,9 +20,10 @@
 ## *Purpose* 
 * Learn how to export data directly from social media platforms such as Facebook from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
 * Data visuzalizations can be used for analyzing and making informed decisions to optimize future social media campaigns and content. 
+* This specific tutorial is aimed at importing Facebook data into Tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
 
 ## *Who is This For?* 
-* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on Facebook and creating a story through basic [data visualzations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
+* This tutorial is dedicated to beginning digital marketers. Specifically, these beginners are individuals interested in personally analyzing their social media analytics on Facebook and creating a story through basic [data visualizations](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.) to share with their company internally, investors externally, or clients. 
 
 # 💻 **Importance of Social Media Analytics**
 * For businesses, marketers, influencers, and more, interpreting [social media analytics](https://www.ibm.com/topics/social-media-analytics) remain crucial in understanding the behaviors and wants of their target audiences including: 
@@ -33,7 +35,7 @@
 
 # 💻 **Tutorial**
 This tutorial unconvers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
-* [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableu Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
+* [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableau Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
 
 ## *Installing Tableau Desktop*
   * ### Step 1: Visit [Tableau](https://www.tableau.com/products/desktop)<img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
@@ -46,14 +48,25 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
   * ### Step 7: Fill Out the Registration Window <img width="850" alt="Screen Shot 2022-05-10 at 9 29 23 AM" src="https://user-images.githubusercontent.com/79784875/167677697-7f81fbd0-c22d-4bba-9b90-46c18fe0bb50.png">
   * ### Step 8: Access Your Tableau Start Screen <img width="850" alt="Screen Shot 2022-05-10 at 9 32 07 AM" src="https://user-images.githubusercontent.com/79784875/167678136-0768ec73-c37e-4233-ae94-5c3f4f401d28.png">
 
-## *Importing Social Media Data into Tableau: Facebook*
-* This specific tutorial is aimed at importing Facebook data into tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
+## *Exporting Facebook Page's Insights Data for Tableau* 
+  * ### Step 1: From your Facebook News Feed, click the "Pages" button in the left menu.<img width="850" alt="Screen Shot 2022-05-30 at 10 50 37 PM" src="https://user-images.githubusercontent.com/79784875/171101953-4f2ebcd3-6140-4a67-88e8-f2dac10fc89c.png">
+  * ### Step 2: 
+
+
+
+Go to your Page.
+Click Insights in the left menu.
+Click Export Data in the top right.
+Select a data type, file format and date range. You may also need to choose a layout.
+Click Export Data again.
+
+* 
 * 
 
 
 -------------------------
                
-           
+Importing social Media Data into Tableau: Facebook*       
 * **Step 1:** Click "More" Underneath "To a Server"  
   * <img width="1120" alt="Screen Shot 2022-05-01 at 4 29 07 PM" src="https://user-images.githubusercontent.com/79784875/166168930-fc71a02a-159b-49ed-97f9-80a77d44c542.png">
 
