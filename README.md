@@ -117,7 +117,7 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 
 <img width="1275" alt="Screen Shot 2022-05-03 at 9 11 41 AM" src="https://user-images.githubusercontent.com/79784875/166492539-267ad8c4-6b88-42c5-9e42-cce0deb8f57c.png">
 
-* Through this data visuzation, we are able to see that the greatest number of likes acquired was through a post at 4:22pm. Similarly, the 2nd highest post that recieved the highest number of likes was posted around the same time (4:58pm). As a result, this data visuzation uncovers a potential posting time for our account. 
+*Through this data visuzation, we are able to see that the greatest number of likes acquired was through a post at 4:22pm. Similarly, the 2nd highest post that recieved the highest number of likes was posted around the same time (4:58pm). As a result, this data visuzation uncovers a potential posting time for our account. 
 * Now, we are able to dig further into the content and consider other variables such as: 
   * What medium were these posts? Were they videos, static images, carousels, Reels, etc.?
   * Were any of these posts associated with a specific campaign? 
