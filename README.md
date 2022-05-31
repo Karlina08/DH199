@@ -94,6 +94,7 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
   *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
 
 ## 💻 **Data Visualizations**
+               
  
  ### *Creating Basic Data Visualizations*
 * Once you data is successfully uploaded into Tableau, you can then create data visuazations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
@@ -123,9 +124,15 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
   * What tags or hashtags were used to garner greater visability? 
   * What are commenters saying about the post. What are their reactions? 
 
-* These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies. 
+* These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies.       
+                 
+                 
+                 
+                
 
-
+                 
+                 
+                 
 ## 💻 **FAQ's**
 * Can I use A Facebook Data Connector?
   * Yes, you may! Unfortunately, if your laptop does not have the latest version of Tableau installed, you will be unable to connect your Facebook data. Consequently, importing the data straight from your Facebook page as a csv. file may be best! If you're still interested, [click here](https://www.tableau.com/solutions/workbook/facebook-connector) to learn how to extract your data into Tableau. 
