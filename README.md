@@ -18,7 +18,6 @@
 7. [FAQ's](#faqs)
 
 
-
 # 💻  **Introduction**
 ## *Purpose* 
 * Learn how to export data directly from social media platforms such as Facebook from social media marketing campaigns to create data visualizations on Tableau by importing social media data onto the platform. 
@@ -86,7 +85,7 @@ Once you create your desired data visualizations, you can begin analyzing the da
   * What kind of content is reaching the most people?  
 * These discussions allow marketers to make informed decsions about future social media posts and marketing campaigns and improve upon their existing strategies. 
 
-* ## 💻 **FAQ's**
+## 💻 **FAQ's**
 * Can I use A Facebook Data Connector?
   * Yes, you may! Unfortunately, if your laptop does not have the latest version of Tableau installed, you will be unable to connect your Facebook data. Consequently, importing the data straight from your Facebook page as a csv. file may be best! If you're still interested, [click here](https://www.tableau.com/solutions/workbook/facebook-connector) to learn how to extract your data into Tableau. 
 
