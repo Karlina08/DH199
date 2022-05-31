@@ -51,7 +51,12 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 ## *Exporting Facebook Page's Insights Data for Tableau* 
   * ### Step 1: From your Facebook News Feed, click the "Pages" button in the left menu.<img width="850" alt="Screen Shot 2022-05-30 at 10 50 37 PM" src="https://user-images.githubusercontent.com/79784875/171101953-4f2ebcd3-6140-4a67-88e8-f2dac10fc89c.png">
   * ### Step 2: Select your desired Facebook Page "<img width="850" alt="Screen Shot 2022-05-30 at 11 13 11 PM" src="https://user-images.githubusercontent.com/79784875/171104958-02ce171e-7a55-4f45-9b43-4e41fd638a9c.png">
-  * ### Step 3: Click the "Insights" Tab on the left menu <img width="1051" alt="Screen Shot 2022-05-30 at 11 15 56 PM" src="https://user-images.githubusercontent.com/79784875/171105318-a53873a6-b8da-485a-96ca-77d00a9f12b6.png">
+  * ### Step 3: Click the "Insights" Tab on the left menu <img width="850" alt="Screen Shot 2022-05-30 at 11 15 56 PM" src="https://user-images.githubusercontent.com/79784875/171105318-a53873a6-b8da-485a-96ca-77d00a9f12b6.png">
+  * ### Step 4: Click "Export Data" <img width="850" alt="Screen Shot 2022-05-30 at 11 33 18 PM" src="https://user-images.githubusercontent.com/79784875/171107730-884e35b6-aead-4d1a-be12-ad3bdf3ccb22.png">
+  * ### Step 5: Select desired data type, file format, and date range. CSV file recommended for Tableau. <img width="850" alt="Screen Shot 2022-05-30 at 11 34 19 PM" src="https://user-images.githubusercontent.com/79784875/171107875-49b18a8c-2a14-4830-a3f7-e29468929f28.png">
+
+  * 
+
 
 
 
