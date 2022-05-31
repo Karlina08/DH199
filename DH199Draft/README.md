@@ -34,32 +34,33 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 ### *Installing Tableau Desktop*
 * [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableu Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
 * **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop) 
-  * <img width="1280" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
+  * <img width="900" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
 * **Step 2:** Click "Try Now"  
-  * <img width="321" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
+  * <img width="900" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
 
 * **Step 3:** Begin Your Free Trial  
-  * <img width="1280" alt="Screen Shot 2022-05-10 at 9 21 31 AM" src="https://user-images.githubusercontent.com/79784875/167676162-ca3e3737-6d0b-4d40-8e2d-5eb27a257c38.png">
+  * <img width="900" alt="Screen Shot 2022-05-10 at 9 21 31 AM" src="https://user-images.githubusercontent.com/79784875/167676162-ca3e3737-6d0b-4d40-8e2d-5eb27a257c38.png">
 
 * **Step 4:** Create a Tableau Account and Request Free Trial
-  * <img width="1022" alt="Screen Shot 2022-05-10 at 9 22 27 AM" src="https://user-images.githubusercontent.com/79784875/167676364-90d45a0f-de6c-4184-b96e-a1bbab87ed19.png">
-  * <img width="472" alt="Screen Shot 2022-05-10 at 9 24 12 AM" src="https://user-images.githubusercontent.com/79784875/167676738-b3097d20-c030-48d1-aca3-42e33425f464.png">
-  * 
+  * <img width="900" alt="Screen Shot 2022-05-10 at 9 22 27 AM" src="https://user-images.githubusercontent.com/79784875/167676364-90d45a0f-de6c-4184-b96e-a1bbab87ed19.png">
+  * <img width="900" alt="Screen Shot 2022-05-10 at 9 24 12 AM" src="https://user-images.githubusercontent.com/79784875/167676738-b3097d20-c030-48d1-aca3-42e33425f464.png">
+ 
 * **Step 5:** Begin Downloading the .exe File
   *  On the bottom of the screen, click the file to beging the downloading process
-  *   <img width="222" alt="Screen Shot 2022-05-10 at 8 56 53 AM" src="https://user-images.githubusercontent.com/79784875/167671327-ab727200-3594-4bcb-b23d-1de19b2a323c.png">
+  *   <img width="900" alt="Screen Shot 2022-05-10 at 8 56 53 AM" src="https://user-images.githubusercontent.com/79784875/167671327-ab727200-3594-4bcb-b23d-1de19b2a323c.png">
   
 * **Step 6:** Open the File and Accept the Terms and Conditions. Click "Install."
-  *  <img width="596" alt="Screen Shot 2022-05-10 at 8 58 17 AM" src="https://user-images.githubusercontent.com/79784875/167671588-9a105fd2-daef-422b-84f0-0a8f3a190715.png">
+  *  <img width="1280" alt="Screen Shot 2022-05-10 at 8 58 17 AM" src="https://user-images.githubusercontent.com/79784875/167671588-9a105fd2-daef-422b-84f0-0a8f3a190715.png">
 
 * **Step 7:** Fill Out the Registration Window
-  *  <img width="460" alt="Screen Shot 2022-05-10 at 9 29 23 AM" src="https://user-images.githubusercontent.com/79784875/167677697-7f81fbd0-c22d-4bba-9b90-46c18fe0bb50.png">
+  *  <img width="1280" alt="Screen Shot 2022-05-10 at 9 29 23 AM" src="https://user-images.githubusercontent.com/79784875/167677697-7f81fbd0-c22d-4bba-9b90-46c18fe0bb50.png">
 
 * **Step 8:** Access Your Tableau Start Screen 
-  *  <img width="833" alt="Screen Shot 2022-05-10 at 9 32 07 AM" src="https://user-images.githubusercontent.com/79784875/167678136-0768ec73-c37e-4233-ae94-5c3f4f401d28.png">
+  *  <img width="1280" alt="Screen Shot 2022-05-10 at 9 32 07 AM" src="https://user-images.githubusercontent.com/79784875/167678136-0768ec73-c37e-4233-ae94-5c3f4f401d28.png">
 
 
-### *Importing Social Media Data into Tableau*
+### *Importing Social Media Data into Tableau: Facebook*
+* This specific tutorial is aimed at importing Facebook data into tableau, as Facebook is the [most common](https://www.statista.com/statistics/259379/social-media-platforms-used-by-marketers-worldwide/#:~:text=As%20of%20January%202021%2C%20Facebook,percent%20did%20so%20via%20Instagram.) social media platform for marketers. 
 * **Step 1:** Click "More" Underneath "To a Server"  
   * <img width="1120" alt="Screen Shot 2022-05-01 at 4 29 07 PM" src="https://user-images.githubusercontent.com/79784875/166168930-fc71a02a-159b-49ed-97f9-80a77d44c542.png">
 
@@ -113,12 +114,14 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 
 
 ## 💻  *FAQ's*
-* Pick one specific focus on the tutorial (can only have so much information) ; question of how far do I explain this? Could be a whole other tutorial in itself 
-* Address the needs of your audience without compromising your own experiences 
-* Datasets are often limited, therefore can only do so much analysis with one specific tutorial 
-* Choose a much larger dataset 
-* It's ok to pivot! (Probably going to change for Instagram analytics to Facebook analytics) 
+* Can I use A Facebook Data Connector?
+  * Yes, you may! Unfortunately, if your laptop does not have the latest version of Tableau installed, you will be unable to connect your Facebook data. Consequently, importing the data straight from your Facebook page as a csv. file may be best! If you're still interested, [click here](https://www.tableau.com/solutions/workbook/facebook-connector) to learn how to extract your data into Tableau. 
 
+* Can I Import Any Other Type of Social Media Analytics into Tableau?
+  * Yes, absolutely. To access the data, you must connect your specific social media platform to Tableau. For a more detailed tutorial to connect your desired social media platform to Tableau, [watch this video](https://www.youtube.com/watch?v=lIHhVW8DAls&list=LL&index=7&t=1345s). Instructions begin on 12:14! 
+
+* How Can I Make a More Sophisticated Graph on Tableau, such as Changing the Color, Adding More Columns and Rows, etc.?
+  * There are an endless amount of data visualizations you can create on Tableau. To create a specific data visualization, refer to this [guide](https://help.tableau.com/current/pro/desktop/en-us/getstarted_buildmanual_ex1basic.htm) created by Tableau to add depth to your graphs. If you are interested in created a social media dashboard for your large data set, refer to this [video](https://www.youtube.com/watch?v=gGZ5-cn5ePk) for design inspiration. 
 
 
 
