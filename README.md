@@ -70,9 +70,9 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
 
 # 💻*Creating Basic Data Visualizations*
 * Once you data is successfully uploaded into Tableau, you can then create data visualizations to measure your [key performance indicators](https://blog.hootsuite.com/social-media-kpis-key-performance-indicators/). For this specific tutorial, we will be using Tableau to answer, "When Should I Post to Gather the Most Comments or Likes?" 
+  * ### Step 1: Create a New Worksheet in Tableau <img width="950" alt="Screen Shot 2022-05-31 at 12 57 20 AM" src="https://user-images.githubusercontent.com/79784875/171122530-6847ef7f-c048-4525-bc32-d1531128efed.png">
+  * ### Step 2: Drag Desired Data from Data Pane into Respective Rows and Columns. This will create a data visualization. 
 
-## *Create a New Worksheet in Tableau*
-  * ##
 
 
 
@@ -85,8 +85,7 @@ This tutorial uncovers the basics of how brands can benefit through the storytel
 -------------------------
                  
                
- 
- ### *Creating Basic Data Visualizations*
+
 
 
 ### *Creating Data Visualizations in Tableau*
