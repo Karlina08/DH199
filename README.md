@@ -31,8 +31,6 @@
   * Recognizing competitor social media strategies and the effectiveness of their social media campaigns 
 * As a result, the development and improvement of products, business operations, and consumer experience can be postively influenced through these analyzations. However, how do we intepret these mass amounts of data on our social media accounts? 
 
-
-
 ## 💻 **Tutorial**
 This tutorial unconvers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
 ### *Installing Tableau Desktop*
@@ -42,11 +40,9 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 <p align="center">
 <img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
     
-* **Step 1:** Visit [Tableau](https://www.tableau.com/products/desktop) 
-<p align="center">
-<img width="850" alt="Screen Shot 2022-05-10 at 9 18 46 AM" src="https://user-images.githubusercontent.com/79784875/167675667-067e320a-7d9a-49a6-a85a-d7f536c43f14.png">
 
-* **Step 2:** Click "Try Now"  
+* **Step 2:** Click "Try Now" 
+* **Step 2** Visit [Tableau](https://www.tableau.com/products/desktop) 
 <p align="center">
 <img width="850" alt="Screen Shot 2022-05-10 at 9 19 52 AM" src="https://user-images.githubusercontent.com/79784875/167675884-a6b7b582-ae72-4877-98da-b3f8ee860aaa.png">
 
