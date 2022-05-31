@@ -1,4 +1,4 @@
-# *_Social Media Analytics with Tableau_*
+# *Social Media Analytics with Tableau*
 > ### Karlina Ho || DGT HUM 199 			
 
 #  💻  Table of Contents
@@ -34,7 +34,7 @@
 * As a result, the development and improvement of products, business operations, and consumer experience can be postively influenced through these analyzations. However, how do we intepret these mass amounts of data on our social media accounts? 
 
 # 💻 **Tutorial**
-This tutorial unconvers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
+This tutorial uncovers the basics of how brands can benefit through the storytelling of Facebook analytics through ***data visualizations*** via Tableau. 
 * [Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform and is used for reporting and analyzing data. This tutorial is dedicated towards individuals that have not installed Tableau Desktop, and are looking to see if this data analyzation tool is right for them. Users must download Tableau Desktop and not Tableau Public to access web applications and data source connectors. If you are a student, tableau is free. [Click here](https://www.tableau.com/academic/students) to learn more. If you have a product key, [click here](https://help.tableau.com/current/pro/desktop/en-us/license_activation.htm). 
 
 ## *Installing Tableau Desktop*
@@ -45,7 +45,7 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
     <img width="850" alt="Screen Shot 2022-05-10 at 9 24 12 AM" src="https://user-images.githubusercontent.com/79784875/167676738-b3097d20-c030-48d1-aca3-42e33425f464.png">
   * ### Step 5: Begin Downloading the .exe File  <img width="850" alt="Screen Shot 2022-05-10 at 8 56 53 AM" src="https://user-images.githubusercontent.com/79784875/167671327-ab727200-3594-4bcb-b23d-1de19b2a323c.png">
   * ### Step 6: Open the File and Accept the Terms and Conditions. Click "Install." <img width="850" alt="Screen Shot 2022-05-10 at 8 58 17 AM" src="https://user-images.githubusercontent.com/79784875/167671588-9a105fd2-daef-422b-84f0-0a8f3a190715.png">
-  * ### Step 7: Fill Out the Registration Window <img width="850" alt="Screen Shot 2022-05-10 at 9 29 23 AM" src="https://user-images.githubusercontent.com/79784875/167677697-7f81fbd0-c22d-4bba-9b90-46c18fe0bb50.png">
+  * ### Step 7: Fill Out the Registration Window <img width="700" alt="Screen Shot 2022-05-10 at 9 29 23 AM" src="https://user-images.githubusercontent.com/79784875/167677697-7f81fbd0-c22d-4bba-9b90-46c18fe0bb50.png">
   * ### Step 8: Access Your Tableau Start Screen <img width="850" alt="Screen Shot 2022-05-10 at 9 32 07 AM" src="https://user-images.githubusercontent.com/79784875/167678136-0768ec73-c37e-4233-ae94-5c3f4f401d28.png">
 
 ## *Exporting Facebook Page's Insights Data for Tableau* 
@@ -54,11 +54,17 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
   * ### Step 3: Click the "Insights" Tab on the left menu <img width="850" alt="Screen Shot 2022-05-30 at 11 15 56 PM" src="https://user-images.githubusercontent.com/79784875/171105318-a53873a6-b8da-485a-96ca-77d00a9f12b6.png">
   * ### Step 4: Click "Export Data" <img width="850" alt="Screen Shot 2022-05-30 at 11 33 18 PM" src="https://user-images.githubusercontent.com/79784875/171107730-884e35b6-aead-4d1a-be12-ad3bdf3ccb22.png">
   * ### Step 5: Select desired data type, file format, and date range. CSV file recommended for Tableau. <img width="850" alt="Screen Shot 2022-05-30 at 11 34 19 PM" src="https://user-images.githubusercontent.com/79784875/171107875-49b18a8c-2a14-4830-a3f7-e29468929f28.png">
-  * ### Step 6: Export Data <img width="1041" alt="Screen Shot 2022-05-30 at 11 37 39 PM" src="https://user-images.githubusercontent.com/79784875/171108320-35cb01cd-114b-46aa-aa76-80ef8794b25b.png">
+  * ### Step 6: Export Data <img width="850" alt="Screen Shot 2022-05-30 at 11 37 39 PM" src="https://user-images.githubusercontent.com/79784875/171108320-35cb01cd-114b-46aa-aa76-80ef8794b25b.png">
 
 
 # 💻 **Data Visualizations**
 ## *Importing Social Media Data into Tableau: Facebook*
+  * ### Step 1: Access Your Tableau Dashboard and click "Text File" <img width="1051" alt="Screen Shot 2022-05-31 at 12 35 04 AM" src="https://user-images.githubusercontent.com/79784875/171118182-ffa0e43f-7801-4f19-ab9b-af6f2e9bd2c8.png">
+  * ### Step 2: Locate and Import your csv. file into Tableau <img width="1081" alt="Screen Shot 2022-05-31 at 12 35 46 AM" src="https://user-images.githubusercontent.com/79784875/171118339-efed4080-04c0-4a7b-bb28-11357f6a4b87.png">
+  * ### Step 3: Wait for your Facebook Insight to Load onto Tableau <img width="1045" alt="Screen Shot 2022-05-31 at 12 36 49 AM" src="https://user-images.githubusercontent.com/79784875/171118519-ee58f324-cb2b-4823-b8b2-e55ffbd0a54c.png">
+
+
+
 
 
 
@@ -67,24 +73,6 @@ This tutorial unconvers the basics of how brands can benefit through the storyte
 
 -------------------------
                  
-* **Step 1:** Click "More" Underneath "To a Server"  
-  * <img width="1120" alt="Screen Shot 2022-05-01 at 4 29 07 PM" src="https://user-images.githubusercontent.com/79784875/166168930-fc71a02a-159b-49ed-97f9-80a77d44c542.png">
-
-* **Step 2:** Click "Web Data Connector" 
-  * <img width="1120" alt="Screen Shot 2022-05-01 at 4 30 13 PM" src="https://user-images.githubusercontent.com/79784875/166168963-c30bbe51-3bb9-45ab-bf44-4ea79fb0a325.png">
-
-* **Step 3:** Copy and Paste the Link, "https://illonage.github.io:443/" and connect your Instagram Account to Tableau 
-  * <img width="801" alt="Screen Shot 2022-05-01 at 4 40 56 PM" src="https://user-images.githubusercontent.com/79784875/166169315-63737dce-929f-405f-a8d6-7e50ff6e582d.png">
-
-* **Step 4:** Log into your Desired Instagram Account 
-  * <img width="796" alt="Screen Shot 2022-05-01 at 4 44 14 PM" src="https://user-images.githubusercontent.com/79784875/166169446-0fe0e9b4-759c-4736-b459-fa576a272658.png">
-
-* **Step 5:** Select "Get the Data from Your Account"
-  * <img width="1277" alt="Screen Shot 2022-05-02 at 5 04 14 PM" src="https://user-images.githubusercontent.com/79784875/166344822-f09f86c4-d987-487d-b61f-9d731cb234ba.png">
-  * <img width="1280" alt="Screen Shot 2022-05-02 at 5 04 32 PM" src="https://user-images.githubusercontent.com/79784875/166344843-7ec868c3-3dca-452c-b7d7-9d09a2dff6e4.png">
-
-* **Step 6:** Once you see "Results for Empty Empty," Click on "Automatically Update." Here, your social media analytics will load onto Tableau. 
-  *<img width="1080" alt="Screen Shot 2022-05-01 at 5 50 52 PM" src="https://user-images.githubusercontent.com/79784875/166172152-64c3b458-23f9-42ea-b366-042e5764d9a7.png">
 
 ## 💻 **Data Visualizations**
                
